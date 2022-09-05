@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  BeveragesApp
+
+  Created by Yulia Popova on 3/9/2022.
+  
+*/
+
+"networkError" = "Network error! Try again later";
+"coctailName" = "Coctail name";
+"noBeverages" = "There are no beverages";
+"tryAnother" = "Try to use another keywords";
+"OK" = "OK";
